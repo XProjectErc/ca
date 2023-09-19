@@ -4,7 +4,7 @@ contract
 
 ## Introduction
 
-The X Project is an ambitious endeavor aimed at revolutionizing the way we approach [DEFI. With a focus on innovation, efficiency, and transparency, our project is set to make a significant impact.
+The X Project is an ambitious endeavor aimed at revolutionizing the way we approach DEFI. With a focus on innovation, efficiency, and transparency, our project is set to make a significant impact.
 
 ## Features
 
@@ -18,13 +18,6 @@ The X Project is an ambitious endeavor aimed at revolutionizing the way we appro
 
 - **Community-Driven**: We believe in the power of community, and actively seek feedback and contributions from our users to enhance the project.
 
-## Getting Started
-
-To get started with the X Project, follow these steps:
-
-1. [Installation guide or initial setup instructions]
-2. [Instructions for basic configuration]
-3. [How to run the project locally or deploy it]
 
 ## Documentation
 
